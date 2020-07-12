@@ -10,3 +10,4 @@ add_executable(4-Median-of-Two-Sorted-Arrays leetcode/4-Median-of-Two-Sorted-Arr
 add_executable(5-Longest-Palindromic-Substring leetcode/5-Longest-Palindromic-Substring.cpp)
 add_executable(6-ZigZag-Conversion leetcode/6-ZigZag-Conversion.cpp)
 add_executable(7-Reverse-Integer leetcode/7-Reverse-Integer.cpp)
+add_executable(8-String-to-Integer leetcode/8-String-to-Integer.cpp)
